@@ -106,7 +106,7 @@ else:
 # Singular
 if numbers_of_vehicles_int == 1:
     print(
-        f'No dia {date}, por volta das {hour}, esta equipe compareceu no km'
+        f'No dia {date}, por volta das {hour}, esta equipe compareceu no km '
         f'{km}, {way}, da BR {br}, no município de {municipality}, onde'
         f'ocorreu um acidente do tipo {type_of_accident}, envolvendo o'
         'veículo:'
