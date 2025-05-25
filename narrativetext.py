@@ -1,4 +1,5 @@
 def situation_singular(scene_situation, interdition_situation):
+
     if interdition_situation:
         print(
 
@@ -12,6 +13,7 @@ def situation_singular(scene_situation, interdition_situation):
             f'A cena encontrava-se {scene_situation} quando da chegada'
             'da equipe.'
         )
+
     else:
         print(
 
