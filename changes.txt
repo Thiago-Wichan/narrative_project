@@ -1,0 +1,3 @@
+[] - Inserir os veículos por função;
+[] - Interface gráfica;
+[X] - Impressão em arquivo separado;

@@ -1,7 +1,7 @@
 def situation_singular(scene_situation, interdition_situation):
 
     if interdition_situation:
-        print(
+        return (
             'No momento da chegada da equipe, o local estava sinalizado pela'
             ' viatura da Concessionária da Rodovia. '
             'O veículo se encontrava no acostamento da via, conforme '
@@ -14,7 +14,7 @@ def situation_singular(scene_situation, interdition_situation):
         )
 
     else:
-        print(
+        return (
             'No momento da chegada da equipe, o local estava sinalizado pela '
             'viatura da Concessionária da Rodovia. '
             'O veículo se encontrava no acostamento da via, conforme '
@@ -28,7 +28,7 @@ def situation_singular(scene_situation, interdition_situation):
 
 def situation_plural(scene_situation, interdition_situation):
     if interdition_situation is not None:
-        print(
+        return (
             'No momento da chegada da equipe, o local estava sinalizado pela '
             'viatura da Concessionária da Rodovia. '
             'Os veículos se encontravam no acostamento da via, conforme '
@@ -39,7 +39,7 @@ def situation_plural(scene_situation, interdition_situation):
             'quando da chegada da equipe.'
         )
     else:
-        print(
+        return (
             'No momento da chegada da equipe, o local estava sinalizado '
             'pela viatura da Concessionária da Rodovia. '
             'O veículo se encontrava no acostamento da via, '
