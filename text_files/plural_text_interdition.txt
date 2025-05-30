@@ -1,0 +1,4 @@
+
+No momento da chegada da equipe, o local estava sinalizado pela viatura da Concessionária da Rodovia. Os veículos se encontravam no acostamento da via, conforme fotografias adicionadas neste LPAT. 
+Houve interdição ${interdition} da via - comprometendo a fluidez do trânsito. 
+A dinâmica do acidente encontra-se representada no croqui - A cena encontrava-se ${scene} quando da chegada da equipe.
